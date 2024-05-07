@@ -14,3 +14,7 @@ There are no specific setup steps required to browse this portfolio. Feel free t
 - [UNIACE SEO Analytics](https://github.com/thale154/DataProject/tree/main/UNIACE%20SEO%20Analytics):
   - Skills: Excel, SQL, PowerBI
   - Domain Knowledge: SEO, conversion rate, website visits...
+
+- SaaS User Analysis:
+  - Skills: SQL, BigQuery, Google Looker Studio
+  - Domain Knowledge: SaaS users and volume usage
