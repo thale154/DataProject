@@ -17,6 +17,6 @@ This project analyzes user behavior for our SaaS offering using BigQuery and Loo
 - **Retention Analysis**: Examines user retention patterns and helps identify factors influencing churn.
 
 # What's next:
-- [] Complete interactive dashboard with Looker Studio.
-- [] Identify cheating users
-- [] Customer Segmentation - RFM
+-[] Complete interactive dashboard with Looker Studio.
+-[] Identify cheating users
+-[] Customer Segmentation - RFM
