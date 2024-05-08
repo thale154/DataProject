@@ -11,7 +11,7 @@ There are no specific setup steps required to browse this portfolio. Feel free t
 
 ## Project List
 
-- SaaS User Analysis - 05/2024:
+- [SaaS User Analysis](https://github.com/thale154/DataProject/tree/main/SaaS%20User%20Analysis) - 05/2024:
   - Skills: SQL, BigQuery, Google Looker Studio
   - Domain Knowledge: SaaS users and volume usage
 
