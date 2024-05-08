@@ -15,3 +15,8 @@ This project analyzes user behavior for our SaaS offering using BigQuery and Loo
 - **User Acquisition Analysis**: Explores trends in user acquisition over time and identifies potential acquisition channels.
 - **User Engagement Analysis**: Analyzes how users interact with different features and identifies areas for improvement.
 - **Retention Analysis**: Examines user retention patterns and helps identify factors influencing churn.
+
+# What's next:
+- Complete interactive dashboard with Looker Studio.
+- Identify cheating users
+- Customer Segmentation - RFM
