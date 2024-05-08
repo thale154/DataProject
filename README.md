@@ -11,6 +11,12 @@ There are no specific setup steps required to browse this portfolio. Feel free t
 
 ## Project List
 
-- [UNIACE SEO Analytics](https://github.com/thale154/DataProject/tree/main/UNIACE%20SEO%20Analytics):
+- SaaS User Analysis - 05/2024:
+  - Skills: SQL, BigQuery, Google Looker Studio
+  - Domain Knowledge: SaaS users and volume usage
+
+- [UNIACE SEO Analytics](https://github.com/thale154/DataProject/tree/main/UNIACE%20SEO%20Analytics) - 04/2024:
   - Skills: Excel, SQL, PowerBI
   - Domain Knowledge: SEO, conversion rate, website visits...
+
+
