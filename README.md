@@ -19,4 +19,6 @@ There are no specific setup steps required to browse this portfolio. Feel free t
   - Skills: Excel, SQL, PowerBI
   - Domain Knowledge: SEO, conversion rate, website visits...
 
-
+- [Customer Analytics with Customer 360 Project using RFM model](https://github.com/thale154/DataProject/tree/main/Customer%20Relationship%20Management%20(CRM)%20-%20RFM) - 03/2024:
+  - Skills: SQL, Excel, PowerBI
+  - Domain Knowledge: Customer relationship management (CRM), Customer360, RFM model 
