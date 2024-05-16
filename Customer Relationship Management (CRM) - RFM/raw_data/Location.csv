@@ -1,0 +1,117 @@
+"ID","SubCompanyID","SubCompanyName","LocationID","BranchCode","BranchFullName","LocationName","Code","SubCompanyNameVN","BranchFullNameVN","LocationNameVN"
+11,2,Vung 1,4,1,HNI - Ha Noi 01,Ha Noi,HNI,Vùng 1,HNI - Hà N?i 01,Hà N?i
+21,2,Vung 1,4,2,HNI - Ha Noi 02,Ha Noi,HNI,Vùng 1,HNI - Hà N?i 02,Hà N?i
+31,2,Vung 1,4,3,HNI - Ha Noi 03,Ha Noi,HNI,Vùng 1,HNI - Hà N?i 03,Hà N?i
+41,2,Vung 1,4,4,HNI - Ha Noi 04,Ha Noi,HNI,Vùng 1,HNI - Hà N?i 04,Hà N?i
+51,2,Vung 1,4,5,HNI - Ha Noi 05,Ha Noi,HNI,Vùng 1,HNI - Hà N?i 05,Hà N?i
+61,2,Vung 1,4,6,HNI - Ha Noi 06,Ha Noi,HNI,Vùng 1,HNI - Hà N?i 06,Hà N?i
+71,2,Vung 1,4,7,HNI - Ha Noi 07,Ha Noi,HNI,Vùng 1,HNI - Hà N?i 07,Hà N?i
+81,2,Vung 1,4,8,HNI - Ha Noi 08,Ha Noi,HNI,Vùng 1,HNI - Hà N?i 08,Hà N?i
+91,2,Vung 1,4,9,HNI - Ha Noi 09,Ha Noi,HNI,Vùng 1,HNI - Hà N?i 09,Hà N?i
+101,2,Vung 1,4,10,HNI - Ha Noi 10,Ha Noi,HNI,Vùng 1,HNI - Hà N?i 10,Hà N?i
+111,2,Vung 1,4,11,HNI - Ha Noi 11,Ha Noi,HNI,Vùng 1,HNI - Hà N?i 11,Hà N?i
+151,42,Vung 5,8,1,HCM - Ho Chi Minh 01,Ho Chi Minh,HCM,Vùng 5,HCM - H? Chí Minh 01,H? Chí Minh
+161,42,Vung 5,8,2,HCM - Ho Chi Minh 02,Ho Chi Minh,HCM,Vùng 5,HCM - H? Chí Minh 02,H? Chí Minh
+171,42,Vung 5,8,3,HCM - Ho Chi Minh 03,Ho Chi Minh,HCM,Vùng 5,HCM - H? Chí Minh 03,H? Chí Minh
+181,42,Vung 5,8,4,HCM - Ho Chi Minh 04,Ho Chi Minh,HCM,Vùng 5,HCM - H? Chí Minh 04,H? Chí Minh
+191,42,Vung 5,8,5,HCM - Ho Chi Minh 05,Ho Chi Minh,HCM,Vùng 5,HCM - H? Chí Minh 05,H? Chí Minh
+201,42,Vung 5,8,6,HCM - Ho Chi Minh 06,Ho Chi Minh,HCM,Vùng 5,HCM - H? Chí Minh 06,H? Chí Minh
+271,12,Vung 2,240,0,BGG - Bac Giang ,Bac Giang,BGG,Vùng 2,BGG - B?c Giang ,B?c Giang
+291,12,Vung 2,241,1,BNH - Bac Ninh 01,Bac Ninh,BNH,Vùng 2,BNH - B?c Ninh 01,B?c Ninh
+311,12,Vung 2,26,0,CBG - Cao Bang ,Cao Bang,CBG,Vùng 2,CBG - Cao B?ng ,Cao B?ng
+351,12,Vung 2,321,0,HYN - Hung Yen ,Hung Yen,HYN,Vùng 2,HYN - Hung Yên ,Hung Yên
+371,12,Vung 2,20,0,LCI - Lao Cai ,Lao Cai,LCI,Vùng 2,LCI - Lào Cai ,Lào Cai
+391,12,Vung 2,25,0,LSN - Lang Son ,Lang Son,LSN,Vùng 2,LSN - L?ng Son ,L?ng Son
+411,12,Vung 2,210,0,PTO - Phu Tho ,Phu Tho,PTO,Vùng 2,PTO - Phú Th? ,Phú Th?
+451,12,Vung 2,280,0,TNN - Thai Nguyen ,Thai Nguyen,TNN,Vùng 2,TNN - Thái Nguyên ,Thái Nguyên
+471,12,Vung 2,27,0,TQG - Tuyen Quang ,Tuyen Quang,TQG,Vùng 2,TQG - Tuyên Quang ,Tuyên Quang
+491,12,Vung 2,211,0,VPC - Vinh Phuc ,Vinh Phuc,VPC,Vùng 2,VPC - Vinh Phúc ,Vinh Phúc
+511,12,Vung 2,29,0,YBI - Yen Bai ,Yen Bai,YBI,Vùng 2,YBI - Yên Bái ,Yên Bái
+531,22,Vung 3,230,0,DBN - Dien Bien ,Dien Bien,DBN,Vùng 3,DBN - Ði?n Biên ,Ði?n Biên
+551,22,Vung 3,218,0,HBH - Hoa Binh ,Hoa Binh,HBH,Vùng 3,HBH - Hòa Bình ,Hòa Bình
+571,22,Vung 3,351,0,HNM - Ha Nam ,Ha Nam,HNM,Vùng 3,HNM - Hà Nam ,Hà Nam
+611,22,Vung 3,39,0,HTH - Ha Tinh ,Ha Tinh,HTH,Vùng 3,HTH - Hà Tinh ,Hà Tinh
+631,22,Vung 3,38,0,NAN - Nghe An ,Nghe An,NAN,Vùng 3,NAN - Ngh? An ,Ngh? An
+651,22,Vung 3,30,0,NBH - Ninh Binh ,Ninh Binh,NBH,Vùng 3,NBH - Ninh Bình ,Ninh Bình
+671,22,Vung 3,350,0,NDH - Nam Dinh ,Nam Dinh,NDH,Vùng 3,NDH - Nam Ð?nh ,Nam Ð?nh
+691,22,Vung 3,22,0,SLA - Son La ,Son La,SLA,Vùng 3,SLA - Son La ,Son La
+711,22,Vung 3,36,0,TBH - Thai Binh ,Thai Binh,TBH,Vùng 3,TBH - Thái Bình ,Thái Bình
+731,22,Vung 3,37,0,THA - Thanh Hoa ,Thanh Hoa,THA,Vùng 3,THA - Thanh Hóa ,Thanh Hóa
+751,32,Vung 4,56,0,BDH - Binh Dinh ,Binh Dinh,BDH,Vùng 4,BDH - Bình Ð?nh ,Bình Ð?nh
+771,32,Vung 4,500,0,DLK - Dak Lak ,Dak Lak,DLK,Vùng 4,DLK - Ð?k L?k ,Ð?k L?k
+791,32,Vung 4,59,0,GLI - Gia Lai ,Gia Lai,GLI,Vùng 4,GLI - Gia Lai ,Gia Lai
+811,32,Vung 4,54,0,HUE - HUE ,HUE,HUE,Vùng 4,HUE - Th?a Thiên Hu? ,Th?a Thiên Hu?
+831,32,Vung 4,58,0,KHA - Nha Trang ,Nha Trang,KHA,Vùng 4,KHA - Khánh Hòa ,Khánh Hòa
+851,32,Vung 4,60,0,KTM - Kon Tum ,Kon Tum,KTM,Vùng 4,KTM - Kon Tum ,Kon Tum
+871,32,Vung 4,57,0,PYN - Phu Yen ,Phu Yen,PYN,Vùng 4,PYN - Phú Yên ,Phú Yên
+891,32,Vung 4,52,0,QBH - Quang Binh ,Quang Binh,QBH,Vùng 4,QBH - Qu?ng Bình ,Qu?ng Bình
+911,32,Vung 4,55,0,QNI - Quang Ngai ,Quang Ngai,QNI,Vùng 4,QNI - Qu?ng Ngãi ,Qu?ng Ngãi
+931,32,Vung 4,510,0,QNM - Quang Nam ,Quang Nam,QNM,Vùng 4,QNM - Qu?ng Nam ,Qu?ng Nam
+951,32,Vung 4,53,0,QTI - Quang Tri ,Quang Tri,QTI,Vùng 4,QTI - Qu?ng Tr? ,Qu?ng Tr?
+991,52,Vung 6,651,0,BPC - Binh Phuoc ,Binh Phuoc,BPC,Vùng 6,BPC - Bình Phu?c ,Bình Phu?c
+1011,52,Vung 6,62,0,BTN - Binh Thuan ,Binh Thuan,BTN,Vùng 6,BTN - Bình Thu?n ,Bình Thu?n
+1031,52,Vung 6,61,1,DNI - Dong Nai 01,Dong Nai,DNI,Vùng 6,DNI - Ð?ng Nai 01,Ð?ng Nai
+1051,52,Vung 6,63,0,LDG - Lam Dong ,Lam Dong,LDG,Vùng 6,LDG - Lâm Ð?ng ,Lâm Ð?ng
+1071,52,Vung 6,68,0,NTN - Ninh Thuan ,Ninh Thuan,NTN,Vùng 6,NTN - Ninh Thu?n ,Ninh Thu?n
+1091,52,Vung 6,66,0,TNH - Tay Ninh ,Tay Ninh,TNH,Vùng 6,TNH - Tây Ninh ,Tây Ninh
+1111,52,Vung 6,64,0,VTU - Vung Tau ,Vung Tau,VTU,Vùng 6,VTU - Bà R?a - Vung Tàu ,Bà R?a - Vung Tàu
+1131,62,Vung 7,76,0,AGG - An Giang ,An Giang,AGG,Vùng 7,AGG - An Giang ,An Giang
+1151,62,Vung 7,781,0,BLU - Bac Lieu ,Bac Lieu,BLU,Vùng 7,BLU - B?c Liêu ,B?c Liêu
+1171,62,Vung 7,75,0,BTE - Ben Tre ,Ben Tre,BTE,Vùng 7,BTE - B?n Tre ,B?n Tre
+1191,62,Vung 7,780,0,CMU - Ca Mau ,Ca Mau,CMU,Vùng 7,CMU - Cà Mau ,Cà Mau
+1211,62,Vung 7,71,0,CTO - Can Tho ,Can Tho,CTO,Vùng 7,CTO - C?n Tho ,C?n Tho
+1231,62,Vung 7,67,0,DTP - Dong Thap ,Dong Thap,DTP,Vùng 7,DTP - Ð?ng Tháp ,Ð?ng Tháp
+1251,62,Vung 7,711,0,HGG - Hau Giang ,Hau Giang,HGG,Vùng 7,HGG - H?u Giang ,H?u Giang
+1271,62,Vung 7,77,0,KGG - Kien Giang ,Kien Giang,KGG,Vùng 7,KGG - Kiên Giang ,Kiên Giang
+1291,62,Vung 7,72,0,LAN - Long An ,Long An,LAN,Vùng 7,LAN - Long An ,Long An
+1311,62,Vung 7,79,0,STG - Soc Trang ,Soc Trang,STG,Vùng 7,STG - Sóc Trang ,Sóc Trang
+1331,62,Vung 7,73,0,TGG - Tien Giang ,Tien Giang,TGG,Vùng 7,TGG - Ti?n Giang ,Ti?n Giang
+1351,62,Vung 7,74,0,TVH - Tra Vinh ,Tra Vinh,TVH,Vùng 7,TVH - Trà Vinh ,Trà Vinh
+1371,62,Vung 7,70,0,VLG - Vinh Long ,Vinh Long,VLG,Vùng 7,VLG - Vinh Long ,Vinh Long
+1511,42,Vung 5,8,7,HCM - Ho Chi Minh 07,Ho Chi Minh,HCM,Vùng 5,HCM - H? Chí Minh 07,H? Chí Minh
+1531,42,Vung 5,8,8,HCM - Ho Chi Minh 08,Ho Chi Minh,HCM,Vùng 5,HCM - H? Chí Minh 08,H? Chí Minh
+1541,42,Vung 5,8,9,HCM - Ho Chi Minh 09,Ho Chi Minh,HCM,Vùng 5,HCM - H? Chí Minh 09,H? Chí Minh
+1551,42,Vung 5,8,10,HCM - Ho Chi Minh 10,Ho Chi Minh,HCM,Vùng 5,HCM - H? Chí Minh 10,H? Chí Minh
+1561,42,Vung 5,8,11,HCM - Ho Chi Minh 11,Ho Chi Minh,HCM,Vùng 5,HCM - H? Chí Minh 11,H? Chí Minh
+1571,2,Vung 1,4,12,HNI - Ha Noi 12,Ha Noi,HNI,Vùng 1,HNI - Hà N?i 12,Hà N?i
+1581,2,Vung 1,4,13,HNI - Ha Noi 13,Ha Noi,HNI,Vùng 1,HNI - Hà N?i 13,Hà N?i
+1591,2,Vung 1,4,14,HNI - Ha Noi 14,Ha Noi,HNI,Vùng 1,HNI - Hà N?i 14,Hà N?i
+1601,2,Vung 1,4,98,HNI - KDDA,Ha Noi,HNI,Vùng 1,HNI - KDDA,Hà N?i
+1611,42,Vung 5,8,98,HCM - KDDA,Ho Chi Minh,HCM,Vùng 5,HCM - KDDA,H? Chí Minh
+1621,42,Vung 5,8,12,HCM - Ho Chi Minh 12,Ho Chi Minh,HCM,Vùng 5,HCM - H? Chí Minh 12,H? Chí Minh
+1631,42,Vung 5,8,13,HCM - Ho Chi Minh 13,Ho Chi Minh,HCM,Vùng 5,HCM - H? Chí Minh 13,H? Chí Minh
+1641,42,Vung 5,8,14,HCM - Ho Chi Minh 14,Ho Chi Minh,HCM,Vùng 5,HCM - H? Chí Minh 14,H? Chí Minh
+1651,42,Vung 5,8,15,HCM - Ho Chi Minh 15,Ho Chi Minh,HCM,Vùng 5,HCM - H? Chí Minh 15,H? Chí Minh
+1661,42,Vung 5,8,16,HCM - Ho Chi Minh 16,Ho Chi Minh,HCM,Vùng 5,HCM - H? Chí Minh 16,H? Chí Minh
+1671,22,Vung 3,31,1,HPG - Hai Phong 01,Hai Phong,HPG,Vùng 3,HPG - H?i Phòng 01,H?i Phòng
+1681,22,Vung 3,31,2,HPG - Hai Phong 02,Hai Phong,HPG,Vùng 3,HPG - H?i Phòng 02,H?i Phòng
+1691,22,Vung 3,31,3,HPG - Hai Phong 03,Hai Phong,HPG,Vùng 3,HPG - H?i Phòng 03,H?i Phòng
+1701,22,Vung 3,31,4,HPG - Hai Phong 04,Hai Phong,HPG,Vùng 3,HPG - H?i Phòng 04,H?i Phòng
+1711,22,Vung 3,31,5,HPG - Hai Phong 05,Hai Phong,HPG,Vùng 3,HPG - H?i Phòng 05,H?i Phòng
+1721,52,Vung 6,65,1,BDG - Binh Duong 01,Binh Duong,BDG,Vùng 6,BDG - Bình Duong 01,Bình Duong
+1731,52,Vung 6,65,2,BDG - Binh Duong 02,Binh Duong,BDG,Vùng 6,BDG - Bình Duong 02,Bình Duong
+1741,52,Vung 6,65,3,BDG - Binh Duong 03,Binh Duong,BDG,Vùng 6,BDG - Bình Duong 03,Bình Duong
+1742,22,Vung 3,31,6,HPG - Hai Phong 06,Hai Phong,HPG,Vùng 3,HPG - H?i Phòng 06,H?i Phòng
+1743,52,Vung 6,61,2,DNI - Dong Nai 02,Dong Nai,DNI,Vùng 6,DNI - Ð?ng Nai 02,Ð?ng Nai
+1744,52,Vung 6,61,3,DNI - Dong Nai 03,Dong Nai,DNI,Vùng 6,DNI - Ð?ng Nai 03,Ð?ng Nai
+1745,52,Vung 6,61,4,DNI - Dong Nai 04,Dong Nai,DNI,Vùng 6,DNI - Ð?ng Nai 04,Ð?ng Nai
+1746,12,Vung 2,33,1,QNH - Quang Ninh 01,Quang Ninh,QNH,Vùng 2,QNH - Qu?ng Ninh 01,Qu?ng Ninh
+1747,12,Vung 2,33,2,QNH - Quang Ninh 02,Quang Ninh,QNH,Vùng 2,QNH - Qu?ng Ninh 02,Qu?ng Ninh
+1748,12,Vung 2,33,3,QNH - Quang Ninh 03,Quang Ninh,QNH,Vùng 2,QNH - Qu?ng Ninh 03,Qu?ng Ninh
+1749,22,Vung 3,320,1,HDG - Hai Duong 01,Hai Duong,HDG,Vùng 3,HDG - H?i Duong 01,H?i Duong
+1750,22,Vung 3,320,2,HDG - Hai Duong 02,Hai Duong,HDG,Vùng 3,HDG - H?i Duong 02,H?i Duong
+1751,22,Vung 3,320,3,HDG - Hai Duong 03,Hai Duong,HDG,Vùng 3,HDG - H?i Duong 03,H?i Duong
+1752,22,Vung 3,320,4,HDG - Hai Duong 04,Hai Duong,HDG,Vùng 3,HDG - H?i Duong 04,H?i Duong
+1753,22,Vung 3,320,5,HDG - Hai Duong 05,Hai Duong,HDG,Vùng 3,HDG - H?i Duong 05,H?i Duong
+1754,52,Vung 6,61,5,DNI - Dong Nai 05,Dong Nai,DNI,Vùng 6,DNI - Ð?ng Nai 05,Ð?ng Nai
+1755,52,Vung 6,61,6,DNI - Dong Nai 06,Dong Nai,DNI,Vùng 6,DNI - Ð?ng Nai 06,Ð?ng Nai
+1756,52,Vung 6,61,7,DNI - Dong Nai 07,Dong Nai,DNI,Vùng 6,DNI - Ð?ng Nai 07,Ð?ng Nai
+1757,32,Vung 4,511,1,DNG - Da Nang 01,Da Nang,DNG,Vùng 4,DNG - Ðà N?ng 01,Ðà N?ng
+1758,32,Vung 4,511,2,DNG - Da Nang 02,Da Nang,DNG,Vùng 4,DNG - Ðà N?ng 02,Ðà N?ng
+1759,32,Vung 4,511,3,DNG - Da Nang 03,Da Nang,DNG,Vùng 4,DNG - Ðà N?ng 03,Ðà N?ng
+1760,12,Vung 2,241,2,BNH - Bac Ninh 02,Bac Ninh,BNH,Vùng 2,BNH - B?c Ninh 02,B?c Ninh
+1761,12,Vung 2,240,1,BGG - Bac Giang 01,Bac Giang,BGG,Vùng 2,BGG - B?c Giang 01,B?c Giang
+1762,12,Vung 2,240,2,BGG - Bac Giang 02,Bac Giang,BGG,Vùng 2,BGG - B?c Giang 02,B?c Giang
+4343,32,Vung 4,58,1,KHA - Nha Trang 01,Nha Trang,KHA,Vùng 4,KHA - Khánh Hòa 01,Khánh Hòa
+4353,32,Vung 4,58,2,KHA - Nha Trang 02,Nha Trang,KHA,Vùng 4,KHA - Khánh Hòa 02,Khánh Hòa
+4363,32,Vung 4,58,3,KHA - Nha Trang 03,Nha Trang,KHA,Vùng 4,KHA - Khánh Hòa 03,Khánh Hòa
