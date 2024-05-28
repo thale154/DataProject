@@ -1,5 +1,5 @@
 # ETL Data with Python Project: Analyze User Behavior on TV and Digital Content Apps
-##Project Description:
+## Project Description:
 
 This project involved developing an ETL pipeline using Python to analyze user behavior data from a TV viewing and digital content app. The raw data, stored in JSON format (approximately 4.5 million lines per file),  was spread across four folders representing four days of user activity.
 
