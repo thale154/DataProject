@@ -1,11 +1,11 @@
-# Bang Customer_Registered
-SELECT TOP 10 *
-FROM dbo.Customer_Registered cr ;
+SELECT *
+FROM data_project.customer_transaction ct 
+LIMIT 10;
 
-# Bang Customer_Transaction
-SELECT TOP 10 *
-FROM dbo.Customer_Transaction ct 
-ORDER BY Purchase_Date DESC;
+SELECT CustomerID, SUM(GMV)
+FROM data_project.customer_transaction ct 
+GROUP BY CustomerID
+ORDER BY 2 DESC;
 
 # ROW_NUMBER cho R, F, M
 WITH cal AS (
@@ -14,8 +14,8 @@ SELECT CustomerID,
 		ROUND(COUNT(DISTINCT CAST(Purchase_Date AS date))*1.00 / DATEDIFF(year, CAST(created_date AS date), '2022-09-01'), 2)  AS frequency,
 		(sum(gmv) / DATEDIFF(year, CAST(created_date AS date), '2022-09-01')) AS monetary,
 		sum(ct.GMV) AS GMV
-FROM dbo.Customer_Transaction ct 
-JOIN dbo.Customer_Registered cr ON ct.CustomerID = cr.ID
+FROM data_project.customer_transaction ct 
+JOIN data_project.customer_registered cr ON ct.CustomerID = cr.ID
 WHERE CustomerID != 0
 GROUP BY CustomerID, created_date)
 SELECT *,
