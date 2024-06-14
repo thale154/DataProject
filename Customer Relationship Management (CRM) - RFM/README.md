@@ -1,6 +1,6 @@
 # CRM - Customer Analytics with Customer 360 Project using RFM model
 
--	Version 1: using SQL, Power BI
+- Version 1: using SQL, Power BI
   -	Leveraged SQL to extract and process customer data (over 1 million transaction records) from a CRM system (Customer 360 Project).
   -	Employed the RFM model and statistical methods (IQR, histograms, distribution analysis) to understand customer behavior and payment patterns, and perform customer segmentation using the BCG matrix by SQL.
   -	Utilized Power BI to create data visualizations to effectively communicate customer segments and actionable insights.
