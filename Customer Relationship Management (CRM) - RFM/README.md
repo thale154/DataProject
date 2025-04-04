@@ -7,9 +7,9 @@
 
 - Version 2: using Python
   - Utilized popular libraries like pandas, seaborn, scikit-learn, and matplotlib to:
-  - Clean and prepare over 1 million transaction records.
-  - Calculate RFM scores and perform customer segmentation using K-Means clustering.
-  - Visualize segmentation results and customer behavior patterns.
+    - Clean and prepare over 1 million transaction records.
+    - Calculate RFM scores and perform customer segmentation using K-Means clustering.
+    - Visualize segmentation results and customer behavior patterns.
 
 
 # Data Sources:
